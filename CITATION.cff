@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the archived release and the associated manuscript."
+title: "GaN Schottky I-V dataset and reproducibility code for reliability-aware sparse-temperature measurement planning"
+type: dataset
+version: 1.0.0
+authors:
+  - family-names: "Doğan"
+    given-names: "Hülya"
+    affiliation: "Sivas Cumhuriyet University, Department of Electrical and Electronics Engineering"
+  - family-names: "Torun"
+    given-names: "Yunis"
+    affiliation: "Sivas Cumhuriyet University, Department of Electrical and Electronics Engineering"
+repository-code: "https://github.com/torunyunus/GaN-SchottkyIV-Measurement"
+keywords:
+  - GaN
+  - Schottky diode
+  - temperature-dependent I-V
+  - measurement planning
+  - PCHIP
+  - reliability
+license: CC-BY-4.0
