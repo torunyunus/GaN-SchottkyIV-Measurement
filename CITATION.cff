@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset or code, please cite the archived release and the associated manuscript."
 title: "GaN Schottky I-V dataset and reproducibility code for reliability-aware sparse-temperature measurement planning"
 type: dataset
-version: 1.0.0
+version: 1.1.0
 authors:
   - family-names: "Doğan"
     given-names: "Hülya"

@@ -1,0 +1,21 @@
+{
+  "source_doi": "10.5281/zenodo.11481314",
+  "source_figure": "Extended Data Fig. 3b of doi:10.1038/s41586-024-07785-3",
+  "source_channels": "Vc (V), Ic (A)",
+  "response": "log10(abs(Ic/A))",
+  "temperatures_K": [
+    224,
+    232,
+    241,
+    251,
+    261,
+    273
+  ],
+  "bias_min_V": -3.0,
+  "bias_max_V": 3.0,
+  "points_per_curve": 1001,
+  "primary_bias_mask": "all published voltage samples",
+  "temperature_endpoints_always_observed": true,
+  "model_selection": "none; frozen Linear and PCHIP interpolators",
+  "exploratory_status": "Source was identified and feasibility screened before formal analysis"
+}
