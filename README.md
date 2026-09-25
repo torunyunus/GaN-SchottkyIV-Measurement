@@ -16,6 +16,10 @@ This repository accompanies the manuscript **“Reliability-Aware Measurement Pl
 - `analysis_reliability_v1.py` — reference implementation of LOTO and exhaustive endpoint-retaining PCHIP schedule analysis.
 - `requirements.txt` — minimal Python dependencies.
 
+## Exploratory external application
+
+`EXPLORATORY_EXTERNAL_CASE.md` documents the separate graphene/p-Ge Schottky source, the reproduction command and limitations. The raw third-party data remain in the original authors' archive; this repository includes only analysis code and derived error summaries.
+
 ## Reproduce the LOTO results
 
 Python 3 is required.
