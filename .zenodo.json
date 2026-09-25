@@ -1,6 +1,6 @@
 {
   "title": "GaN Schottky I-V dataset and reproducibility code for reliability-aware sparse-temperature measurement planning",
-  "description": "Audited canonical current-voltage dataset and reproducibility materials for reliability-aware sparse-temperature characterization of an Au/Ni/n-GaN Schottky diode. The package contains 5,189 experimental I-V points measured at 19 temperatures from 40 to 400 K, reference Linear/PCHIP leave-one-temperature-out analysis code, and finite-schedule reliability summaries.",
+  "description": "Audited canonical current-voltage dataset and reproducibility materials for reliability-aware sparse-temperature characterization of an Au/Ni/n-GaN Schottky diode. The package contains 5,189 experimental I-V points measured at 19 temperatures from 40 to 400 K, reference Linear/PCHIP leave-one-temperature-out analysis code, and finite-schedule reliability summaries. Version 1.1.0 additionally includes an exploratory graphene/p-Ge application, its analysis script, and derived summary tables; the original third-party measurements are linked but not redistributed.",
   "creators": [
     {
       "name": "Doğan, Hülya",
@@ -11,7 +11,7 @@
       "affiliation": "Sivas Cumhuriyet University, Department of Electrical and Electronics Engineering"
     }
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "access_right": "open",
   "license": "cc-by-4.0",
   "upload_type": "dataset",
@@ -25,7 +25,8 @@
     "PCHIP",
     "leave-one-temperature-out",
     "reliability",
-    "reproducibility"
+    "reproducibility",
+    "external case study"
   ],
   "related_identifiers": [
     {
