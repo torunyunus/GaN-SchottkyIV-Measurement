@@ -1,0 +1,3 @@
+file,total_points,n_40K,n_340K,note
+legacy_data.mat,5192,301,278,40 K first point missing; 340 K curve duplicates legacy 320 K curve
+Schottky_GaN_clean_5189.mat,5189,302,274,canonical corrected dataset
